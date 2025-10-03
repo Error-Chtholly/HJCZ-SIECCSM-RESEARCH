@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20250530</CreaDate><CreaTime>15423600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractMultiValuesToPoints" Date="20250530" Time="154236">ExtractMultiValuesToPoints travel "SLOPE.tif SLOPE;ZoneClip_Dem_sth.tif ZoneClip_D" NONE</Process></lineage></DataProperties></Esri></metadata>
