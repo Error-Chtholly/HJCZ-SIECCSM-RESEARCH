@@ -1,1 +1,0 @@
-Here are the 129 vector point coordinate data of Long March red tourism resources in Yunnan that we collected and obtained through online map information.
