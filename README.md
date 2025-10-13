@@ -1,4 +1,4 @@
-This repository serves as the official open-access data and code repository for the academic paper titled **"Evaluating the Sustainable Development of Red Cultural Tourism in Yunnan, China Using GIS and Machine Learning Methods"**.  
+This repository serves as the official open-access data and code repository for the academic paper titled **"Evaluating the Sustainable Development of Red Cultural Tourism in Yunnan, China, Using GIS and Machine Learning Methods"**.  
 Researchers are kindly requested to **cite the original publication** when utilizing these resources for any academic or scientific purposes.
 
 ---
