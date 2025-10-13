@@ -12,3 +12,6 @@ We encourage the research community to use, extend, and validate these resources
 ---
 **Cite us:**  
 Zhou, Z.; Cheng, F.; Shen, S.; Gao, Y.; Li, Z.; Wang, J. Evaluating the Sustainable Development of Red Cultural Tourism in Yunnan, China, Using GIS and Machine Learning Methods. Reg. Sci. Environ. Econ. 2025, 2, 32. https://doi.org/10.3390/rsee2040032.
+
+---
+<img width="938" height="718" alt="image" src="https://github.com/user-attachments/assets/49881591-759a-4481-837e-b41678d60f76" />
