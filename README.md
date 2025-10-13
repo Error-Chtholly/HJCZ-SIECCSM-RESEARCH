@@ -8,3 +8,7 @@ Researchers are kindly requested to **cite the original publication** when utili
 - Supports reproducibility of all findings and visualizations presented in the published study
 
 We encourage the research community to use, extend, and validate these resources with proper attribution to support open science in cultural tourism and sustainable development studies.
+
+---
+**Cite us:**  
+Zhou, Z.; Cheng, F.; Shen, S.; Gao, Y.; Li, Z.; Wang, J. Evaluating the Sustainable Development of Red Cultural Tourism in Yunnan, China, Using GIS and Machine Learning Methods. Reg. Sci. Environ. Econ. 2025, 2, 32. https://doi.org/10.3390/rsee2040032.
