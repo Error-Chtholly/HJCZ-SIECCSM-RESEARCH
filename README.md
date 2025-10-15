@@ -15,4 +15,4 @@ Zhou, Z.; Cheng, F.; Shen, S.; Gao, Y.; Li, Z.; Wang, J. Evaluating the Sustaina
 
 ---
 **Graphical Abstract:**  
-<img width="1920" height="538" alt="image" src="https://github.com/user-attachments/assets/0bd2fd61-2308-4949-8b04-2043a916b9a4" />
+<img width="2557" height="715" alt="image" src="https://github.com/user-attachments/assets/269d23d0-47c5-4a39-9bac-1c3fd372c48b" />
